@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0986A32D-60E7-4086-A51B-205865938A74</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TrickPlusPlus</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5952B9B094749CD464ABC37F0F8952A5E216A298</key>
+		<string>github.com:jbobrow/TrickPlusPlus.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TrickPlusPlus/TrickPlusPlus.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5952B9B094749CD464ABC37F0F8952A5E216A298</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:jbobrow/TrickPlusPlus.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5952B9B094749CD464ABC37F0F8952A5E216A298</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5952B9B094749CD464ABC37F0F8952A5E216A298</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TrickPlusPlus</string>
+		</dict>
+	</array>
+</dict>
+</plist>
