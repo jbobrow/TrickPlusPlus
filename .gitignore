@@ -1,3 +1,6 @@
+# Movie files
+*.mov
+
 # Compiled Object files
 *.slo
 *.lo
