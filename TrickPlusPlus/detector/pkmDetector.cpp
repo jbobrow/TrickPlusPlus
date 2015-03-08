@@ -197,7 +197,7 @@ void pkmDetector::update()
 			// create a mask of the current inliers based on transform distance
 			vector<char> matchesMask( filteredMatches.size(), 0 );
 			
-			printf("Matched %d features.\n", filteredMatches.size());
+			printf("Matched %d features.\n", (int)filteredMatches.size());
 			
 			// convert previous image points to current image points via homography 
 			// although this is a transformation from image to world coordinates
